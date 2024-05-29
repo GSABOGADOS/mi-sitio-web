@@ -72,7 +72,7 @@
 <body>
 
 <header>
-    <img src="logo_original.jpg" alt="Logo de GS Abogados">
+    <img src="LOGO.docx" alt="LOGO.docx">
     <h1>GS Abogados - Derecho Comercial</h1>
 </header>
 
